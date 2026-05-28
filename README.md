@@ -3,7 +3,7 @@
 # vins-fusion-gpu
 
 ## 概述
-本项目为**微分智飞**公司旗下教育无人机子品牌**非凸空间**适配的双目定位算法，其基于开源算法 **[VINS-Fusion-gpu](https://github.com/pjrambo/VINS-Fusion-gpu)** ，并集成了realsense相机的ros驱动**[realsense-ros](https://github.com/realsenseai/realsense-ros)**。相关readme见[readme-vins](vins-fusion-gpu/README.md)和[readme-realsense](vins-fusion-gpu/realsense-ros/README.md)。
+本项目为**微分智飞**公司旗下教育无人机子品牌**非凸空间**适配的双目定位算法，其基于开源算法 **[VINS-Fusion-gpu](https://github.com/pjrambo/VINS-Fusion-gpu)** ，并集成了realsense相机的ros驱动 **[realsense-ros](https://github.com/realsenseai/realsense-ros)**。相关readme见[readme-vins](README-VINS.md)和[readme-realsense](realsense-ros/README.md)。
 
 ## 项目拉取
 ```
